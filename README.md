@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TheRock87
-- 👀 I’m interested in python and data science and block chain 
+- 👀 I’m interested in python, data science and block chain 
 - 🌱 I’m currently learning python and data science
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
