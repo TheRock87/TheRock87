@@ -2,7 +2,7 @@
 - 👀 I’m interested in python, data science and IoT 
 - 🌱 I’m currently learning python and data science
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me: Hossam.kharbotly@gmail.com
 
 <!---
 TheRock87/TheRock87 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
