@@ -6,7 +6,7 @@ I'm an aspiring **Machine Learning Engineer** currently focused on **Computer Vi
 
 * 🎓 Graduated in **Computer Engineering**
 * 📚 Studying **Machine Learning**, with a strong interest in **Computer Vision**, **Deep Learning**, and **Medical Imaging**
-* 🛠 Currently building a **portfolio of ML projects**, including image classification, segmentation, and GANs
+* 🛠 Currently building a **portfolio of ML projects**, including image classification and segmentation
 * 🌍 Open to remote or local **junior roles** in AI, ML, or Data Science
 * 🧠 Exploring related fields like **NLP** and **Data Science**
 
