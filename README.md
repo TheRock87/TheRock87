@@ -8,6 +8,7 @@ I'm an aspiring **Machine Learning Engineer** currently focused on **NLP, LLMs &
 * 📚 Lifelong learning **Machine Learning**, with a strong interest in **NLP, LLMs**, **Deep Learning**, and **Computer Vision**
 * 🛠 Currently turning scattered knowledge into personalized learning journeys @Edulga
 * 🌍 Open to remote or local **roles** in AI, ML, or Data Science
+---
 
 ## 💻 Tech Stack
 
@@ -40,7 +41,6 @@ I'm an aspiring **Machine Learning Engineer** currently focused on **NLP, LLMs &
 
 ![Hugging Face](https://img.shields.io/badge/HuggingFace-%23FFD21F.svg?style=for-the-badge&logo=huggingface&logoColor=black)
 ![Render](https://img.shields.io/badge/Render-12100E.svg?style=for-the-badge&logo=render&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -58,13 +58,17 @@ I'm an aspiring **Machine Learning Engineer** currently focused on **NLP, LLMs &
 ![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge\&logo=Jupyter\&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge\&logo=google-colab\&logoColor=white)
 
+---
 
 ## 🌐 Connect With Me
 
-[![Website](https://img.shields.io/badge/Website-hossamkh.me-informational?style=for-the-badge\&logo=google-chrome\&logoColor=white)](https://hossamkh.me)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin\&logoColor=white)](https://linkedin.com/in/hossam87)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github\&logoColor=white\&style=for-the-badge)](https://github.com/TheRock87)
-[![Kaggle](https://img.shields.io/badge/Kaggle-finalbosshossam-blue?style=flat-square&logo=kaggle)](https://www.kaggle.com/finalbosshossam)  
+[![Website](https://img.shields.io/badge/Website-hossamkh.me-informational?style=for-the-badge&logo=google-chrome&logoColor=white)](https://hossamkh.me)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hossam87)  
+[![Kaggle](https://img.shields.io/badge/Kaggle-finalbosshossam-blue?style=flat-square&logo=kaggle)](https://www.kaggle.com/finalbosshossam)    
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TheRock87)  
+
+
+
 
 ✉️ `hossam.kharbotly@gmail.com`
 ---
