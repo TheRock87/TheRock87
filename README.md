@@ -1,14 +1,13 @@
 # Hi there, I'm Hossam ElKharbotly 👋
 
-I'm an aspiring **Machine Learning Engineer** currently focused on **Computer Vision**, with a passion for solving real-world problems through intelligent systems. I specialize in building data-driven applications and am particularly interested in applying AI to healthcare and other impactful domains.
+I'm an aspiring **Machine Learning Engineer** currently focused on **NLP, LLMs & multimodal models**, with a passion for solving real-world problems through intelligent systems. I specialize in building data-driven applications and am particularly interested in applying AI to impactful domains and making machines useful.
 
 ## 🚀 About Me
 
 * 🎓 Graduated in **Computer Engineering**
-* 📚 Studying **Machine Learning**, with a strong interest in **Computer Vision**, **Deep Learning**, and **Medical Imaging**
-* 🛠 Currently building a **portfolio of ML projects**, including image classification and segmentation
-* 🌍 Open to remote or local **junior roles** in AI, ML, or Data Science
-* 🧠 Exploring related fields like **NLP** and **Data Science**
+* 📚 Lifelong learning **Machine Learning**, with a strong interest in **NLP, LLMs**, **Deep Learning**, and **Computer Vision**
+* 🛠 Currently turning scattered knowledge into personalized learning journeys @Edulga
+* 🌍 Open to remote or local **roles** in AI, ML, or Data Science
 
 ## 💻 Tech Stack
 
@@ -24,6 +23,7 @@ I'm an aspiring **Machine Learning Engineer** currently focused on **Computer Vi
 ![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
+
 ### Programming & Scripting
 
 ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge\&logo=python\&logoColor=white)
@@ -32,7 +32,9 @@ I'm an aspiring **Machine Learning Engineer** currently focused on **Computer Vi
 
 ### 🔧 Backend & Frameworks
 
-![FastAPI](https://img.shields.io/badge/FastAPI-%2300C7B7.svg?style=for-the-badge&logo=fastapi&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-%23009688.svg?style=for-the-badge&logo=fastapi&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-%23000000.svg?style=for-the-badge&logo=chainlink&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-%23000000.svg?style=for-the-badge&logo=graph&logoColor=white)
 
 ### ☁️ Cloud & Deployment
 
@@ -41,6 +43,11 @@ I'm an aspiring **Machine Learning Engineer** currently focused on **Computer Vi
 ![Streamlit](https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![OpenAI API](https://img.shields.io/badge/OpenAI%20API-%23412991.svg?style=for-the-badge&logo=openai&logoColor=white)
+![WhatsApp Cloud API](https://img.shields.io/badge/WhatsApp%20Cloud%20API-%2325D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white)
+
 
 ### 🛠️ Tools & Platforms
 
@@ -57,12 +64,9 @@ I'm an aspiring **Machine Learning Engineer** currently focused on **Computer Vi
 [![Website](https://img.shields.io/badge/Website-hossamkh.me-informational?style=for-the-badge\&logo=google-chrome\&logoColor=white)](https://hossamkh.me)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin\&logoColor=white)](https://linkedin.com/in/hossam87)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github\&logoColor=white\&style=for-the-badge)](https://github.com/TheRock87)
+[![Kaggle](https://img.shields.io/badge/Kaggle-finalbosshossam-blue?style=flat-square&logo=kaggle)](https://www.kaggle.com/finalbosshossam)  
 
-
-## 👀 Visitor Count
-
-![Visitor Count](https://profile-counter.glitch.me/{TheRock87}/count.svg)
-
+✉️ `hossam.kharbotly@gmail.com`
 ---
 
 ### Let's build intelligent systems that make a difference! 🤖
