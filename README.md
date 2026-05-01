@@ -11,6 +11,7 @@ Currently at [**Dar**](https://www.dar.com/), one of the world's leading multidi
 * 🧠 Architected **"The Brain"** — Dar's organization-wide Knowledge Base, powered by fine-tuned local models and a custom RAG infrastructure
 * 🤖 Built the **Dar Cost Agent** — a sophisticated multi-agent system with 10 LangGraph nodes, serving the PMC department for automated cost engineering workflows
 * 🔬 Deep expertise in **LLM fine-tuning**, **agentic AI**, **RAG systems**, and **MLOps at scale**
+* 🖥️ Hands-on with **server administration**, **model serving infrastructure**, and **Docker containerization** — deploying and managing AI workloads end-to-end in production environments
 * 🌍 Focused on applying AI to high-impact, enterprise-grade domains
 
 ---
@@ -49,6 +50,8 @@ Currently at [**Dar**](https://www.dar.com/), one of the world's leading multidi
 ![Azure AI](https://img.shields.io/badge/Azure%20AI-%230072C6.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/HuggingFace-%23FFD21F.svg?style=for-the-badge&logo=huggingface&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+![Linux Server](https://img.shields.io/badge/Linux%20Server-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![OpenAI API](https://img.shields.io/badge/OpenAI%20API-%23412991.svg?style=for-the-badge&logo=openai&logoColor=white)
