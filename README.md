@@ -1,13 +1,18 @@
 # Hi there, I'm Hossam ElKharbotly 👋
 
-I'm an aspiring **Machine Learning Engineer** currently focused on **NLP, LLMs & multimodal models**, with a passion for solving real-world problems through intelligent systems. I specialize in building data-driven applications and am particularly interested in applying AI to impactful domains and making machines useful.
+I'm an **AI Engineer** with 2+ years of hands-on experience building production-grade intelligent systems. I specialize in **NLP**, **LLM applications**, **Generative AI**, and **data pipelines** — turning cutting-edge research into scalable, real-world solutions.
+
+Currently at [**Dar**](https://www.dar.com/), one of the world's leading multidisciplinary consultancies, where I architect and deliver AI-powered products that serve the entire organization.
 
 ## 🚀 About Me
 
-* 🎓 Graduated in **Computer Engineering**
-* 📚 Lifelong learning **Machine Learning**, with a strong interest in **NLP, LLMs**, **Deep Learning**, and **Computer Vision**
-* 🛠 Currently turning scattered knowledge into personalized learning journeys @Edulga
-* 🌍 Open to remote or local **roles** in AI, ML, or Data Science
+* 🎓 **Computer Engineering** graduate
+* 🏢 **AI Engineer @ Dar** — building enterprise-scale GenAI infrastructure and intelligent agents
+* 🧠 Architected **"The Brain"** — Dar's organization-wide Knowledge Base, powered by fine-tuned local models and a custom RAG infrastructure
+* 🤖 Built the **Dar Cost Agent** — a sophisticated multi-agent system with 10 LangGraph nodes, serving the PMC department for automated cost engineering workflows
+* 🔬 Deep expertise in **LLM fine-tuning**, **agentic AI**, **RAG systems**, and **MLOps at scale**
+* 🌍 Focused on applying AI to high-impact, enterprise-grade domains
+
 ---
 
 ## 💻 Tech Stack
@@ -36,17 +41,17 @@ I'm an aspiring **Machine Learning Engineer** currently focused on **NLP, LLMs &
 ![FastAPI](https://img.shields.io/badge/FastAPI-%23009688.svg?style=for-the-badge&logo=fastapi&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-%23000000.svg?style=for-the-badge&logo=chainlink&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-%23000000.svg?style=for-the-badge&logo=graph&logoColor=white)
+![LangFuse](https://img.shields.io/badge/LangFuse-%23000000.svg?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyem0wIDE4Yy00LjQxIDAtOC0zLjU5LTgtOHMzLjU5LTggOC04IDggMy41OSA4IDgtMy41OSA4LTggOHoiLz48L3N2Zz4=&logoColor=white)
+![vLLM](https://img.shields.io/badge/vLLM-%23412991.svg?style=for-the-badge&logo=openai&logoColor=white)
 
 ### ☁️ Cloud & Deployment
 
+![Azure AI](https://img.shields.io/badge/Azure%20AI-%230072C6.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/HuggingFace-%23FFD21F.svg?style=for-the-badge&logo=huggingface&logoColor=black)
-![Render](https://img.shields.io/badge/Render-12100E.svg?style=for-the-badge&logo=render&logoColor=white)
-![Heroku](https://img.shields.io/badge/Heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![OpenAI API](https://img.shields.io/badge/OpenAI%20API-%23412991.svg?style=for-the-badge&logo=openai&logoColor=white)
-![WhatsApp Cloud API](https://img.shields.io/badge/WhatsApp%20Cloud%20API-%2325D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white)
 
 
 ### 🛠️ Tools & Platforms
@@ -73,4 +78,4 @@ I'm an aspiring **Machine Learning Engineer** currently focused on **NLP, LLMs &
 ✉️ `hossam.kharbotly@gmail.com`
 ---
 
-### Let's build intelligent systems that make a difference! 🤖
+### Building intelligent systems that power the future of engineering. 🤖
